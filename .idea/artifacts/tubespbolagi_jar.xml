@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tubespbolagi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tubespbolagi_jar</output-path>
+    <root id="archive" name="tubespbolagi.jar">
+      <element id="module-output" name="tubespbolagi" />
+    </root>
+  </artifact>
+</component>
